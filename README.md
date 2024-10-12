@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ayu Safitri
+- 👀 I’m interested in web development and building cool, interactive web applications.
+- 🌱 I’m currently learning how to develop web apps with JavaScript, CSS, and HTML, and working on a calculator app as a project and create web for myself
+- 💞️ I’m looking to collaborate on web development projects, especially ones that involve JavaScript frameworks like React or front-end design challenges.
+- 📫 How to reach me: ayusafitri2789@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love listening to music while coding, it helps me stay focused and creative! 🎧
