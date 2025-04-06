@@ -19,11 +19,3 @@ Right now, I’m focusing on **Kotlin** for Android Development and **PHP** for 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusafitri721&layout=compact&theme=rose_pine)
 
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: ayu.dev@example.com  
-- 🌐 [LinkedIn](#)  
-- 📸 [Instagram](#)
-
