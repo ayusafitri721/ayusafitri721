@@ -6,7 +6,7 @@ Right now, I’m focusing on **Kotlin** for Android Development and **PHP** for 
 ---
 
 ### 💡 A little about me:
-- 💻 Comfortable with: Kotlin, PHP
+- 💻 Comfortable with: Kotlin, PHP, C#
 - 🌱 Currently learning: Jetpack Compose & Web API
 - 💬 Ask me about: Android apps, backend development, or anything tech-related!
 - 🌸 I love creating clean UI and solving real problems with code
@@ -15,5 +15,5 @@ Right now, I’m focusing on **Kotlin** for Android Development and **PHP** for 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusafitri721&theme=rose_pine&layout=default&card_width=400)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusafitri721&theme=rose_pine&layout=compact&langs_count=6" width="450"/>
 
