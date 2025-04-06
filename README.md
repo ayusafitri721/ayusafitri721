@@ -6,7 +6,7 @@ Right now, I’m focusing on **Kotlin** for Android Development and **PHP** for 
 ---
 
 ### 💡 A little about me:
-- 💻 Comfortable with: Kotlin, PHP, C#
+- 💻 Comfortable with: Kotlin, PHP
 - 🌱 Currently learning: Jetpack Compose & Web API
 - 💬 Ask me about: Android apps, backend development, or anything tech-related!
 - 🌸 I love creating clean UI and solving real problems with code
