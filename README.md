@@ -16,7 +16,6 @@ Right now, I’m focusing on **Kotlin** for Android Development and **PHP** for 
 ## 📊 GitHub Stats
 
 ![Ayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayusafitri721&show_icons=true&theme=rose_pine)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusafitri721&layout=compact&theme=rose_pine)
 
 ---
