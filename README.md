@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Ayu
 
-I'm an 11th grade student at SMKN 24 Jakarta who’s super passionate about **building apps that people love** — both on **mobile** and the **web**.  
+I'm an 12th grade student at SMKN 24 Jakarta who’s super passionate about **building apps that people love** — both on **mobile** and the **web**.  
 Right now, I’m focusing on **Kotlin** for Android Development and **PHP** for Web Development.
 
 
