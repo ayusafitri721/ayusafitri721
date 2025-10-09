@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Ayu Safitri!
 
-### 🚀 Full-Stack Developer | Mobile & Web Enthusiast
+### 🚀 Web Developer | Full-Stack & Mobile Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=12th+Grade+Student+at+SMKN+24+Jakarta;Building+Apps+People+Love+%F0%9F%92%9C;Mobile+%26+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=12th+Grade+Student+at+SMKN+24+Jakarta;Web+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Apps+%F0%9F%8C%90;Mobile+Development+Too!+%F0%9F%93%B1;Always+Learning+New+Things!" alt="Typing SVG" />
 
 </div>
 
@@ -15,21 +15,21 @@
 ```kotlin
 val developer = Developer(
     name = "Ayu Safitri",
-    role = "Full-Stack Developer",
+    role = "Web Developer",
     school = "SMKN 24 Jakarta - Grade 12",
-    currentFocus = listOf("Android Development", "Web Development"),
-    passions = listOf(
-        "Building user-friendly apps",
-        "Clean code architecture",
-        "UI/UX design"
+    currentFocus = listOf("Web Development", "Android Development"),
+    languages = listOf(
+        "Kotlin", "Java", "PHP", "Python", 
+        "JavaScript", "HTML", "CSS"
     ),
+    skills = listOf("Git & GitHub", "Flutter", "Bootstrap"),
     funFact = "I turn coffee into code ☕️"
 )
 ```
 
-🎯 **Currently focused on:** Building scalable applications with modern tech stacks  
-💡 **Learning:** Advanced design patterns & cloud technologies  
-🌱 **Goal:** Create impactful solutions that make people's lives easier
+🎯 **Currently focused on:** Building responsive & dynamic web applications  
+💡 **Learning:** Advanced Laravel & React.js patterns  
+🌱 **Goal:** Create stunning web experiences that users love
 
 ---
 
@@ -39,11 +39,11 @@ val developer = Developer(
 
 ### 🔥 What I Love Working With
 
-| **Mobile Development** | **Web Development** | **Backend & Tools** |
+| **Web Development** | **Backend & Database** | **Mobile Development** |
 |:---:|:---:|:---:|
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
 
 </div>
 
@@ -60,9 +60,7 @@ val developer = Developer(
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </details>
 
@@ -72,7 +70,6 @@ val developer = Developer(
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -85,9 +82,7 @@ val developer = Developer(
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
@@ -103,14 +98,15 @@ val developer = Developer(
 </details>
 
 <details>
-<summary><b>🚀 Deployment & Tools</b></summary>
+<summary><b>🚀 Tools & Version Control</b></summary>
 <br>
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
 
