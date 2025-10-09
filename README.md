@@ -2,15 +2,15 @@
 
 # 👋 Hi, I'm Ayu Safitri!
 
-### 🚀 Web Developer | Full-Stack & Mobile Enthusiast
+### Web Developer | Full-Stack & Mobile Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=12th+Grade+Student+at+SMKN+24+Jakarta;Web+Developer+%F0%9F%92%BB;Building+Beautiful+Web+Apps+%F0%9F%8C%90;Mobile+Development+Too!+%F0%9F%93%B1;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=12th+Grade+Student+at+SMKN+24+Jakarta;Web+Developer;Building+Beautiful+Web+Apps;Mobile+Development+Too!;Always+Learning+New+Things!" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🌟 About Me
+## About Me
 
 ```kotlin
 val developer = Developer(
@@ -23,21 +23,21 @@ val developer = Developer(
         "JavaScript", "HTML", "CSS"
     ),
     skills = listOf("Git & GitHub", "React Native", "Bootstrap"),
-    funFact = "I turn coffee into code ☕️"
+    funFact = "I turn coffee into code"
 )
 ```
 
 🎯 **Currently focused on:** Building responsive & dynamic web applications  
 💡 **Learning:** Advanced Laravel & React.js patterns  
-🌱 **Goal:** Create stunning web experiences that users love
+**Goal:** Create stunning web experiences that users love
 
 ---
 
-## 💖 My Favorite Tech Stack
+## My Favorite Tech Stack
 
 <div align="center">
 
-### 🔥 What I Love Working With
+### What I Love Working With
 
 | **Web Development** | **Backend & Database** | **Mobile Development** |
 |:---:|:---:|:---:|
@@ -49,7 +49,7 @@ val developer = Developer(
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <details>
 <summary><b>🎨 Frontend Development</b></summary>
@@ -111,7 +111,7 @@ val developer = Developer(
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -124,7 +124,7 @@ val developer = Developer(
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -134,7 +134,7 @@ val developer = Developer(
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -144,7 +144,7 @@ val developer = Developer(
 
 ---
 
-## 🌐 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -158,11 +158,11 @@ val developer = Developer(
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 📊 Profile Views
+### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=ayusafitri721&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
@@ -170,6 +170,6 @@ val developer = Developer(
 
 **⭐️ From [ayusafitri721](https://github.com/ayusafitri721) with 💜**
 
-*"Code is like humor. When you have to explain it, it's bad!"* 😄
+*"Code is like humor. When you have to explain it, it's bad!"*
 
 </div>
