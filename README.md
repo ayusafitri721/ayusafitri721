@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/fDUTlZ62wecAAAAi/killua-hunter-x-hunter.gif">
 
 ### Hi there, I'm Ayu
 
