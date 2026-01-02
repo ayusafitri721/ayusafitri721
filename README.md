@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayu%20Safitri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099FF,100:0066FF&height=180&section=header&text=Ayu%20Safitri&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 </div>
 
@@ -47,10 +47,10 @@ I'm a **Full-Stack Developer** passionate about creating seamless digital experi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayusafitri721&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=e2e8f0&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusafitri721&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&background=0d1117&stroke=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayusafitri721&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=e2e8f0&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusafitri721&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&background=0d1117&stroke=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayusafitri721&theme=high-contrast&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&custom_title=Contribution%20Activity" />
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayusafitri721&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -66,8 +66,8 @@ I'm a **Full-Stack Developer** passionate about creating seamless digital experi
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ayusafitri721&style=flat-square&color=8b5cf6)
+![](https://komarev.com/ghpvc/?username=ayusafitri721&style=flat-square&color=00D4FF)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0099FF,100:0066FF&height=100&section=footer"/>
