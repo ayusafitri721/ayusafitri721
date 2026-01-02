@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Killua Coding" width="400" src="https://i.pinimg.com/originals/e4/f6/4e/e4f64e6bf4548b6c9f0d10c0c3f6d85e.gif">
 
 ### Hi there, I'm Ayu
 
