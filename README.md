@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="right" alt="Killua Coding" width="400" src="https://i.pinimg.com/originals/e4/f6/4e/e4f64e6bf4548b6c9f0d10c0c3f6d85e.gif">
+<img align="right" alt="Killua Animation" width="400" src="https://i.pinimg.com/originals/8d/27/26/8d27269068d902e40559698e26c352af.gif">
 
 ### Hi there, I'm Ayu
 
