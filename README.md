@@ -1,5 +1,35 @@
 <div align="center">
 
+# Ayu Safitri
+
+### Full-Stack Developer | Mobile Enthusiast | UI/UX Designer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Digital+Experiences;Web+%26+Mobile+Development;Always+Learning+New+Things" alt="Typing SVG" />
+
+</div>
+
+```javascript
+const developer = {
+  name: "Ayu Safitri",
+  role: "Full-Stack Developer",
+  education: "SMKN 24 Jakarta | Grade 12",
+  location: "Jakarta, Indonesia",
+  
+  expertise: {
+    frontend: ["React", "Next.js", "Bootstrap", "Responsive Design"],
+    backend: ["Laravel", "PHP", "Python", "RESTful APIs"],
+    mobile: ["Kotlin", "Java", "React Native", "Android"],
+    tools: ["Git", "Figma", "Adobe Suite", "VS Code"]
+  },
+  
+  currentlyLearning: ["Advanced React Patterns", "Laravel Best Practices"],
+  openToCollaborate: true,
+  funFact: "Turning coffee into code since 2021"
+};
+```
+
+<div align="center">
+
 ## Technology Stack
 
 ### Frontend Development
