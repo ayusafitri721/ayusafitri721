@@ -19,7 +19,7 @@ I'm a **Full-Stack Developer** passionate about creating seamless digital experi
 - Designing beautiful interfaces that users love
 - Learning advanced patterns in React & Laravel
 
-**Core Skills:** Web Development, Mobile Apps, UI/UX Design, Backend APIs
+**Core Skills:** Web Development, Mobile Apps, UI/UX Design
 
 <br clear="right"/>
 
